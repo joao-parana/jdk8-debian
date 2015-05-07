@@ -43,7 +43,7 @@ You can launch the image using the docker command line :
 - **For test purpose :**
 
 ```bash
-docker run --name='java8' -it --rm joao-parana/jdk8-debian:latest /bin/bash
+docker run --name='java8' -it --rm parana/jdk8-debian:latest /bin/bash
 ```
 
 - **For production purpose :**
