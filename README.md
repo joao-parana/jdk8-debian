@@ -1,5 +1,7 @@
 # JDK 8 on Debian wheezy
 
+This **Dockerfile** is a [trusted build](https://registry.hub.docker.com/u/parana/jdk8-debian/) of [Docker Registry](https://registry.hub.docker.com/).
+
 # Table of Contents
 - [Introduction](#introduction)
     - [Version](#version)
